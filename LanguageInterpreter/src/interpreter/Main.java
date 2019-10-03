@@ -6,7 +6,7 @@ public class Main {
     // This is a test comment
     Lexicon lex = new Lexicon();
 
-    String newWord = lex.translate("happy");
+    String newWord = lex.translate("food");
     System.out.println(newWord);
 
   }
