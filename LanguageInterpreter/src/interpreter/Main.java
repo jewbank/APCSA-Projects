@@ -15,8 +15,7 @@ public class Main {
    * 
    * @param word The single word to be decoded.
    */
-  public static String decode(String word)
-  {
+  public static String decode(String word) {
     return "";
   }
 
@@ -25,8 +24,15 @@ public class Main {
    * 
    * @param message The sentence (multiple words) to be decoded.
    */
-  public static String decodeMessage(String message)
-  {
+  public static String decodeMessage(String message) {
+    return "";
+  }
+
+  /**
+   * This method uses the decode(String) and a Scanner to decode a word specified
+   * by the user.
+   */
+  public static String decodeInput() {
     return "";
   }
 }
